@@ -13,7 +13,6 @@
 
 
 </head>
-<!-- test2 git-->
 <?php try {
 
     /* récuperation de la recette */
